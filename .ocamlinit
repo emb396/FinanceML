@@ -1,0 +1,7 @@
+#load_rec "main.cmo";;
+#require "graphics";;
+#load "graphics.cma";;
+#require "lwt";;
+#require "cohttp-lwt";;
+#require "cohttp-lwt-unix";;
+#require "yojson";;

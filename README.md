@@ -1,1 +1,1 @@
-# FinanceML
+# cs3110-project
